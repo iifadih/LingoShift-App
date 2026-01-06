@@ -34,15 +34,17 @@ To run this project locally, follow these steps:
 
 
 2. **Install dependencies:**
-```bash
-npm install
+     ```bash
+      npm install
 
 
 
 
 3. **Start the development server:**
-```bash
-npm run dev
+     ```bash
+     npm run dev
+## 📝 About the Project
 
-```
+This project was created to empower users to communicate naturally in any setting. Whether you need a polished business email or want to chat with locals using their slang, **Linguist Pro** has you covered.
+
 

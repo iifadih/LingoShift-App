@@ -1,0 +1,5 @@
+{
+  "name": "Linguist Pro: Universal Expert Translator",
+  "description": "A world-class translation application leveraging Gemini 3 Flash with Google Search grounding to provide hyper-accurate, culturally adapted translations in both formal and colloquial modes.",
+  "requestFramePermissions": []
+}
